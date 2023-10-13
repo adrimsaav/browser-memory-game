@@ -77,4 +77,8 @@ I found these two very difficult to create code for. Managing the elements in th
 
 For the flipAlbum function, it required nested conditions, which caused confusion. The if statement was also complex and hard for me to understand, but after reading up on it, it made sense in the end. It helped shorten the code a lot. I definitely still need practice with these kinds of statements where a set of conditions, rather than a longer script, is better.# browser-memory-game
 
-git@github.com:adrimsaav/browser-memory-game.git
+## NEXT STEPS:
+
+1. Find a more aesthetically pleasing way to flip the cards
+2. Small bug in game: When player reaches 20th attempt and then "win" the game, they receive the win and lose message prompt.
+
