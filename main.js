@@ -185,5 +185,4 @@ shuffledPairs.forEach((pair, index) => {
 
 // 4. Initialize game.
 
-
 initializeGame();
