@@ -5,14 +5,10 @@
 //     - lose-message
 //     - reset-button (btn)
 //     - img 1-16 (including urls)
-//     - albums/EPs: House Party by Keaton Henson, In Rainbows by RadioHead,
-//     - F--- The World by Brent Faiyaz, Tu Veneno Mortal by Eslabon Armado,
-//     - Too Late to Die Young by Sonder, Norman F---ing Rockwell! by Lana del Rey,
-//     - ???????????????, Lost by Brent Faiyaz
+//     - albums/EPs
 
 // 3. Create JS structure to build game with constants, state variables, etc.
 /*----- constants -----*/
-// const album=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];
 const album = [ 
 {class: 'card1', id: 1, src: "./photos/fayewebster.jpg"},
 {class: 'card2', id: 2, src: "./photos/ftheworld-brentfaiyaz.jpeg"},
@@ -188,6 +184,5 @@ shuffledPairs.forEach((pair, index) => {
 });
 
 // 4. Initialize game.
-
 
 initializeGame();
