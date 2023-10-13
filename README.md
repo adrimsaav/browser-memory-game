@@ -64,3 +64,4 @@ CHALLENGING CODE PARTS
 I found these two very difficult to create code for. Managing the elements in the loops/conditional statements would become stressful. For the shuffleArray, there were several concepts that I did not understand initially, like backward iteration or random number generation, which meant it took more time to learn more about it, then script it.
 
 For the flipAlbum function, it required nested conditions, which caused confusion. The if statement was also complex and hard for me to understand, but after reading up on it, it made sense in the end. It helped shorten the code a lot. I definitely still need practice with these kinds of statements where a set of conditions, rather than a longer script, is better.# browser-memory-game
+# browser-memory-game

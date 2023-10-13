@@ -1,0 +1,96 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #020008;
+    padding: auto;
+    margin: 0;
+    background-image: url('./photos/background.gif');
+    }
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 5px 0;
+    text-decoration: underline;
+}
+
+h3 {
+    color: white;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.game-container {    
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+
+#images-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    max-width: 700px;
+    max-height: 700px;}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+.card {
+    position: relative;
+    cursor: pointer;
+    width: 150px;
+    height: 150px;
+    transform: scaleX(-1);
+}
+
+.frontOfCard {
+    backface-visibility: visible;
+    transition: transform 0.5s;
+    position: absolute;
+}
+
+.backOfCard {
+    width: 150px;
+    height: 150px;
+    transition: transform 0.5s;
+    transform-style: preserve-3d;
+    transform: rotateY(0deg);
+    position: absolute;
+}
+
+.card.flipped .frontOfCard {
+    transform: rotateY(180deg);
+    visibility: visible;
+}
+
+.card.flipped .backOfCard {
+    transform: rotateY(180deg);
+    visibility: hidden;
+}
+
+.card.matched .frontOfCard {
+    visibility: visible;
+}
+
+
+#reset-btn {
+    display: block;
+    margin: 20px auto;
+    position: absolute center;
+    background-color: #ffffff;
+    color: #661313;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
