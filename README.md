@@ -21,22 +21,23 @@ This is so the player has the chance to play again, even if they win or lose.
 
 GAME PICTURES:
 
-![readme-ss1](/assets/readme-ss1.png)
+<img width="1067" alt="readme-ss1" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/d5af24a6-88fc-4fe3-83c1-4767c3457e46">
 (photo of game first displayed)
 
 This is how the game will look when first displayed. Reset button is shown below.
 Title, sub-title that says "you get 20 tries! you'll need all of them", and
 "attempts: 0" is shown. 
 
-![readme-ss3](/assets/readme-ss3.png)
+
+<img width="875" alt="readme-ss3" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/99227f1d-55a8-4167-85e0-e0906d41f50d">
 (photo of a pair that matches)
 
 Cards that match will remain flipped throughout the game. You can continue clicking other cards while they stay visible.
 
-![readme-ss4](/assets/readme-ss4.png)
+<img width="768" alt="readme-ss4" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/9fef1cc1-5f21-4c00-a363-932e1310448c">
 (photo of continuation; another pair of cards has been chosen by used and matching pair remains)
 
-![readme-ss2](/assets/readme-ss2.png)
+<img width="812" alt="readme-ss2" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/da9c7d56-efc0-43c1-8cbb-e6b5a1f15bae">
 (photo of a pair that does not match)
 
 These cards do not match. Therefore, they will flip back over and go to their original state after a second.
@@ -57,9 +58,10 @@ Javascript was used to make the game interactive. For the logic, I used many fun
 
 CHALLENGING CODE PARTS
 
-![readme-ss5](/assets/readme-ss5.png)
+<img width="441" alt="readme-ss5" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/e150df47-077f-438e-9d73-2d07ad564e5c">
 
-![readme-ss6](/assets/readme-ss6.png)
+<img width="760" alt="readme-ss6" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/49c9ca32-5dfa-496e-b4f7-2bb77fd6bb3d">
+
 
 I found these two very difficult to create code for. Managing the elements in the loops/conditional statements would become stressful. For the shuffleArray, there were several concepts that I did not understand initially, like backward iteration or random number generation, which meant it took more time to learn more about it, then script it.
 
