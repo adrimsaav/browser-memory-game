@@ -82,4 +82,3 @@ For the flipAlbum function, it required nested conditions, which caused confusio
 1. Find a more aesthetically pleasing way to flip the cards
 2. Small bug in game: When player reaches 20th attempt and then "win" the game, they receive the win and lose message prompt.
 
-git@github.com:adrimsaav/browser-memory-game.git
