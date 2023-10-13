@@ -40,6 +40,7 @@ Cards that match will remain flipped throughout the game. You can continue click
 
 
 <img width="768" alt="readme-ss4" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/9fef1cc1-5f21-4c00-a363-932e1310448c">
+
 (photo of continuation; another pair of cards has been chosen by used 
 and matching pair remains)
 
