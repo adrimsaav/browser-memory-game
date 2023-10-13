@@ -1,3 +1,5 @@
+#Browser Memory Game
+
 This is a memory game consisting of albums/EPs I listen to daily. There is a total of 16 cards, making a 4x4 grid. This makes 8 pairs, with the following albums:
 
 1. "Faye Webster" by Faye Webster
@@ -19,7 +21,7 @@ This is so the player has the chance to play again, even if they win or lose.
 
 ------------------------------------------------------
 
-GAME PICTURES:
+##GAME PICTURES:
 
 <img width="1067" alt="readme-ss1" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/d5af24a6-88fc-4fe3-83c1-4767c3457e46">
 (photo of game first displayed)
@@ -44,7 +46,7 @@ These cards do not match. Therefore, they will flip back over and go to their or
 
 --------------------------------------------------------
 
-TECHNOLOGIES USED:
+##TECHNOLOGIES USED:
 
 I used HTML, CSS, and Javascript to build this game.
 
@@ -56,7 +58,7 @@ Javascript was used to make the game interactive. For the logic, I used many fun
 
 --------------------------------------------------------
 
-CHALLENGING CODE PARTS
+##CHALLENGING CODE PARTS
 
 <img width="441" alt="readme-ss5" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/e150df47-077f-438e-9d73-2d07ad564e5c">
 
