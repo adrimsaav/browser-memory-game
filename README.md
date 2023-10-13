@@ -37,7 +37,8 @@ Title, sub-title that says "you get 20 tries! you'll need all of them", and
 Cards that match will remain flipped throughout the game. You can continue clicking other cards while they stay visible.
 
 <img width="768" alt="readme-ss4" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/9fef1cc1-5f21-4c00-a363-932e1310448c">
-(photo of continuation; another pair of cards has been chosen by used and matching pair remains)
+(photo of continuation; another pair of cards has been chosen by used 
+and matching pair remains)
 
 <img width="812" alt="readme-ss2" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/da9c7d56-efc0-43c1-8cbb-e6b5a1f15bae">
 (photo of a pair that does not match)
