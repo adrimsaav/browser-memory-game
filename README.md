@@ -24,6 +24,7 @@ This is so the player has the chance to play again, even if they win or lose.
 ## GAME PICTURES:
 
 <img width="1067" alt="readme-ss1" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/d5af24a6-88fc-4fe3-83c1-4767c3457e46">
+
 (photo of game first displayed)
 
 This is how the game will look when first displayed. Reset button is shown below.
@@ -37,14 +38,17 @@ Title, sub-title that says "you get 20 tries! you'll need all of them", and
 
 Cards that match will remain flipped throughout the game. You can continue clicking other cards while they stay visible.
 
+
 <img width="768" alt="readme-ss4" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/9fef1cc1-5f21-4c00-a363-932e1310448c">
 (photo of continuation; another pair of cards has been chosen by used 
 and matching pair remains)
 
 <img width="812" alt="readme-ss2" src="https://github.com/adrimsaav/browser-memory-game/assets/145809449/da9c7d56-efc0-43c1-8cbb-e6b5a1f15bae">
+
 (photo of a pair that does not match)
 
 These cards do not match. Therefore, they will flip back over and go to their original state after a second.
+
 
 --------------------------------------------------------
 
@@ -57,6 +61,7 @@ HTML was used for layout of the game. Identifier for image grid is what contains
 CSS was used to style the game, giving it a moving background and aligning the cards to look like a 4x4 grid. It was also used to stylize the backsides and frontsides of the cards, along with the button.
 
 Javascript was used to make the game interactive. For the logic, I used many functions containing forEach loops, conditional if-else statements, and the setTimeout function. Event listeners and event handlers are also implemented to capture and respond to user interactions. Through Javascript, I was able to access each necessary identifier to execute the game's functions and create the code. I also created the shuffleArray() function that was designed to shuffle the cards when the reset button is clicked. This function adds an essential element of randomness and challenge to the game, enhancing the overall gaming experience.
+
 
 --------------------------------------------------------
 
