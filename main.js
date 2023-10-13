@@ -84,7 +84,7 @@ function checkIfMatches() {
         matches++;
 
         if (matches === album.length) {
-            alert('You won! Game over. Click reset button to play again.');
+            alert('You won! Game over. Click the reset button to play again.');
         }
     } else {
         setTimeout(() => {
@@ -163,7 +163,7 @@ function createGrid (albumData) {
 // function for shuffling cards 
 shuffledPairs.forEach((pair, index) => {
     
-    const albumEl = document.querySelector(`.card[data-id="${pair.id}"]`);
+    const albumEl = document.querySelector(`.card[id="${pair.id}"]`);
     const frontOfCard = albumEl.querySelector('.frontOfCard');
 
 
