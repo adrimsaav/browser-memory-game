@@ -1,4 +1,4 @@
-# Browser Memory Game
+# Memory Browser Game
 
 This is a memory game consisting of albums/EPs I listen to daily. There is a total of 16 cards, making a 4x4 grid. This makes 8 pairs, with the following albums:
 
